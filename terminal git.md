@@ -1,4 +1,4 @@
-gitclone https://github.com/sahiba-svg/hand-gesture-tracker.git
+dirgitclone https://github.com/sahiba-svg/hand-gesture-tracker.git
 pip freeze > requirements.txt
 cd my_project
 mkdir handgesture
